@@ -1,3 +1,3 @@
 def call (){
-    sh 'bash /tmp/jfpush.sh'
+    sh 'python3 jfrog.py'
 }
